@@ -1,0 +1,30 @@
+
+.searchbox {
+    margin-top: 10px;
+}
+
+.searchbox a {
+    font-size: small;
+}
+
+.search {
+    margin-bottom: 10px;
+}
+
+.header {
+    font-family: Verdana;
+    font-size: medium;
+    color: #000066;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    border: 10 none #000066;
+}
+
+.result {
+    margin-bottom: 10px;
+}
+
+.result td {
+    font-size: 12px;
+}
